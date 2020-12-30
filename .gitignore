@@ -1,0 +1,8 @@
+/include
+/Lib
+/Scripts
+/saved-media
+pyvenv.cfg
+trainer.yml
+label.pickle
+.vscode/
